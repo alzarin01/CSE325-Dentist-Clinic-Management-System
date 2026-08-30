@@ -1,6 +1,6 @@
 /*
 ========================================================
-        DENTIST CLINIC MANAGEMENT SYSTEM
+        Sleeping Dentist Synchronization
 ========================================================
 One dentist, one treatment chair, N waiting chairs,
 one receptionist, and multiple patients.
