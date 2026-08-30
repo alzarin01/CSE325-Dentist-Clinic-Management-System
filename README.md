@@ -1,4 +1,4 @@
-# 🦷 Dentist Clinic Management System
+# 🦷 Sleeping Dentist Synchronization
 
 A **C-based Operating Systems project** that simulates the operation of a dentist clinic using **POSIX threads, semaphores, and mutexes**.
 
